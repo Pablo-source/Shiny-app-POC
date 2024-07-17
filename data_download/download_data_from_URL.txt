@@ -1,0 +1,9 @@
+# data_download
+
+- This folder contains scripts with adhoc function to download data from URL, directly from the ONS website where the Excel data file is hosted.
+- See adhoc function: DownloadData()
+
+- Includes a second function to check for latest file updated on the website and triggering a new download if the file was downloaded more than 24hours ago.
+- See adhoc function: Dataupdate()
+
+- This ensures we always have the most up to date information when running this shiny app
