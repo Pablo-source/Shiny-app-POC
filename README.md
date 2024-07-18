@@ -13,6 +13,7 @@ The first step of this project is to download data to populate the Shiny dashboa
     • Health Index scores, Integrated care systems, England.
     • Source: ONS
 - <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/healthindexscoresintegratedcaresystemsengland>
+
 1-2. NHS ICBs Shapefile
     • Office for National Statistics > Open Geography Portal
     • Open Geography Portal > Boundaries > Health Boundaries > Integrated Care Boards > 2023 Boundaries
